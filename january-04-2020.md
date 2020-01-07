@@ -7,6 +7,7 @@
 + [Bitcoin Core on Github](https://github.com/bitcoin/bitcoin)
 + [Bitcoin Block Explorer](https://blockstream.info/)
 + [Wallet of Satoshi](https://www.walletofsatoshi.com/)
++ [Lightning Network](https://lightning.network/)
 + [Coin Market Cap](https://coinmarketcap.com/)
 + [Bitcoin PR Review Club](https://bitcoincore.reviews/)
 + [Jon Atack Resource Repo](https://github.com/jonatack/bitcoin-development)
